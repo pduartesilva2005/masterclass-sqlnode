@@ -17,7 +17,7 @@ SQLNode é uma API com SQL Integrado com Node
 
 ## Começando
 
-- Clone esse repositório `git clone https://github.com/pedroduarte2005/masterclass-sqlnode.git `
+- Clone esse repositório `git clone https://github.com/pduartesilva2005/masterclass-sqlnode.git `
 - Instale as Depedências `yarn` ou `npm install`
 - Rode as Migrations `yarn sequelize db:migrate`
 - Rode o Projeto `yarn dev`
